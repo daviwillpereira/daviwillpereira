@@ -1,8 +1,7 @@
 <h1 align="center">Hey guys, Davi Wilson here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate Java/Spring Back-End developer from Brazil</h3>
 
-
-
+<br>
 
 - 🔭 I’m currently working at IBM Brazil as a Java Application Developer (At&t account) - Fully Remote
 
