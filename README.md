@@ -1,5 +1,5 @@
-<h1 align="center">Hey guys, Davi Wilson here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
-<h3 align="center">A passionate Java/Spring Back-End developer from Brazil <img height="40" src="https://giphy.com/gifs/brazil-ZYzcre1SPw0yk/giphy.gif"></h3>
+<h1 align="center">Hey guys, Davi Wilson here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Java/Spring Back-End developer from Brazil <img src="https://media.giphy.com/media/brazil-ZYzcre1SPw0yk/giphy.gif" width="35"></h3>
 
 <!--
 **daviwillpereira/daviwillpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
