@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **daviwillpereira@gmail.com**
 
-- ⚡ Fun fact: Love to code, spend time with my family and movies/series/animes/etc etc :P 
+- ⚡ Fun fact: Love to code, spend time with my family and watch movies/series/animes/etc etc :P 
 
 <br>
 
