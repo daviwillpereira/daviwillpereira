@@ -3,13 +3,13 @@
 
 <br>
 
-- 🔭 I’m currently working at IBM Brazil as a Java Application Developer (At&t account) - Fully Remote
+- 🔭 I’m currently working as a Web Developer Freelancer
 
 - 🌱 I’m currently learning web development with Java/Spring Boot in Cloud Environments (Azure, AWS)
 
 - 📫 How to reach me: **daviwillpereira@gmail.com**
 
-- ⚡ Fun fact: Love to code, spend time with my family and watch movies/series/animes/etc etc :P 
+- ⚡ Fun fact: Love to code, spend time with my family and watch movies/series/animes/etc etc
 
 <br>
 
